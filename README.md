@@ -58,6 +58,22 @@
         Avoid lastminute adjustments because changes late in development are costlier than early-stage adjustments.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+- The Waterfall model is a linear sequential development process, where each phase must be completed before the next begins. It's often likened to a waterfall, as progress flows in one direction.
+**FEATURES**
+- Higher risk involved because issues may be discovered late in development.
+- Slower because entire product is developed before release.
+- Low customer involvement which mainly in the beginning and at the end.
+- Phases (requirements, design, development, testing, deployment) follow a strict order.
+- Rigid as changes are difficult to make once the process begins.
+
+# *Agile methodology* involves a flexible approach that emphasizes iterative development, customer collaboration, and continuous improvement. It's designed to adapt to changing requirements and deliver value early and often.
+**FEATURES**
+- Risks are identified and mitigated throughout the process
+- Faster working product is delivered in small increments (sprints)
+- High continuous feedback and collaboration
+- Phases (planning, design, development, testing) run concurrently
+- Highly adaptable as changes can be made at any stage
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
