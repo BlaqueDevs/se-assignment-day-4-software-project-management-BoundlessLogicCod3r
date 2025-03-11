@@ -20,6 +20,43 @@
 - Monitor and Adapt Progress - Tracking KPIs like velocity, burndown charts, and task completion rates and being flexible by adjusting the project plan based on real-time      progress.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+- Prevents Budget Overruns - Accurate cost estimation helps avoid unexpected expenses which may lead to  additional funding, which could delay or even cancel the project.
+- Improves Resource Allocation - Ensures that resources are used efficiently by prioritizing spending on critical tasks while reducing unnecessary expenses.
+- Enhances Project Profitability - Maximizes profitability by ensuring cost-effective development and deployment.
+- Minimizes Financial Risks - Identifies financial risks early and mitigates potential losses.
+- Improves Decision-Making - Provides real-time financial insights to guide strategic choices.
+- Ensures Timely Project Completion - Helps keep the project on track by preventing unnecessary spending that might require scope reduction.
+
+# *Strategies used to prevent budget overruns:*
+- Accurate Project Planning and Cost Estimation;
+        Clearly define project scope to avoid ambiguous requirements that may lead to additional costs.
+        Use historical data to analyze past projects to predict realistic budgets.
+        Break down costs to estimate expenses for development, testing, deployment, and maintenance.
+        Include a continency budget by allocating 10-20% extra for unexpected costs.
+- Prioritize Features and Scope Control;
+        Avoid scope creep by strictly controling changes and new feature requests.
+        Using change control processes taht require approval for any modifications that impact costs.
+- Effective Resource Allocation and Management;
+        Optimizing team optimization by assigning the right number of developers based on workload.
+        Outsource smartly by outsourcing freelancers or third-party vendors for specialized tasks instead of hiring full-time staff.
+        Leverage open-source tools in order to reduce licensing costs by using free or cost-effective software.
+- Agile and Iterative Development Approach;
+        Implementing  agile methodology to deliver work in small, manageable sprints to detect budget risks early.
+        Conduct regular stand ups and reviews to keep teams aligned on budget constraints.
+        Track prgress with project management tools such as Jira, Trello, or Asana to monitor costs in real time.
+- Continuous Budget Monitoring and Reporting;
+        Setup cost tracking systems in order to monitor expenses weekly or bi-weekly.
+        Utilizing financial boards to track costs using tools like Microsoft Power BI, QuickBooks, or Zoho Projects.
+        Compare actual vs estimated costs by regularly review budget deviations and adjust accordingly.
+- Risk Management and Contingency Planning:
+        Identifying financial risks early by assessing delays, vendor issues, or regulatory changes.
+        Create back up plans consisting of alternative solutions for potential roadblocks.
+        Negotiate flexible contracts to avoid long-term commitments that may become costly.
+- Stakeholder Communication and Transparency;
+        Involve Stakeholders, clients, teams, and investors in budget planning.
+        Setting clear expectations by defining budget limits and expectations upfront.
+        Avoid lastminute adjustments because changes late in development are costlier than early-stage adjustments.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
