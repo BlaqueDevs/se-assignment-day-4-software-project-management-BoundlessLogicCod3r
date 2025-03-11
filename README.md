@@ -28,31 +28,31 @@
 - Ensures Timely Project Completion - Helps keep the project on track by preventing unnecessary spending that might require scope reduction.
 
 # *Strategies used to prevent budget overruns:*
-- Accurate Project Planning and Cost Estimation;
+1. Accurate Project Planning and Cost Estimation;
         Clearly define project scope to avoid ambiguous requirements that may lead to additional costs.
         Use historical data to analyze past projects to predict realistic budgets.
         Break down costs to estimate expenses for development, testing, deployment, and maintenance.
         Include a continency budget by allocating 10-20% extra for unexpected costs.
-- Prioritize Features and Scope Control;
+2. Prioritize Features and Scope Control;
         Avoid scope creep by strictly controling changes and new feature requests.
         Using change control processes taht require approval for any modifications that impact costs.
-- Effective Resource Allocation and Management;
+3. Effective Resource Allocation and Management;
         Optimizing team optimization by assigning the right number of developers based on workload.
         Outsource smartly by outsourcing freelancers or third-party vendors for specialized tasks instead of hiring full-time staff.
         Leverage open-source tools in order to reduce licensing costs by using free or cost-effective software.
-- Agile and Iterative Development Approach;
+4. Agile and Iterative Development Approach;
         Implementing  agile methodology to deliver work in small, manageable sprints to detect budget risks early.
         Conduct regular stand ups and reviews to keep teams aligned on budget constraints.
         Track prgress with project management tools such as Jira, Trello, or Asana to monitor costs in real time.
-- Continuous Budget Monitoring and Reporting;
+5. Continuous Budget Monitoring and Reporting;
         Setup cost tracking systems in order to monitor expenses weekly or bi-weekly.
         Utilizing financial boards to track costs using tools like Microsoft Power BI, QuickBooks, or Zoho Projects.
         Compare actual vs estimated costs by regularly review budget deviations and adjust accordingly.
-- Risk Management and Contingency Planning:
+6. Risk Management and Contingency Planning:
         Identifying financial risks early by assessing delays, vendor issues, or regulatory changes.
         Create back up plans consisting of alternative solutions for potential roadblocks.
         Negotiate flexible contracts to avoid long-term commitments that may become costly.
-- Stakeholder Communication and Transparency;
+7. Stakeholder Communication and Transparency;
         Involve Stakeholders, clients, teams, and investors in budget planning.
         Setting clear expectations by defining budget limits and expectations upfront.
         Avoid lastminute adjustments because changes late in development are costlier than early-stage adjustments.
@@ -60,22 +60,57 @@
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 - The Waterfall model is a linear sequential development process, where each phase must be completed before the next begins. It's often likened to a waterfall, as progress flows in one direction.
 **FEATURES**
-- Higher risk involved because issues may be discovered late in development.
-- Slower because entire product is developed before release.
-- Low customer involvement which mainly in the beginning and at the end.
-- Phases (requirements, design, development, testing, deployment) follow a strict order.
-- Rigid as changes are difficult to make once the process begins.
+a. Higher risk involved because issues may be discovered late in development.
+b. Slower because entire product is developed before release.
+c. Low customer involvement which mainly in the beginning and at the end.
+d. Phases (requirements, design, development, testing, deployment) follow a strict order.
+e. Rigid as changes are difficult to make once the process begins.
+f. Development approach is sequential and linear
+g. Testing happens only after development is completed
+h. Extensive documentation required before development begins
+i. Collaboration works in hierarchical teams with defined roles
+j. Suited for well-defined and stable projects with clear requirements
 
 # *Agile methodology* involves a flexible approach that emphasizes iterative development, customer collaboration, and continuous improvement. It's designed to adapt to changing requirements and deliver value early and often.
 **FEATURES**
-- Risks are identified and mitigated throughout the process
-- Faster working product is delivered in small increments (sprints)
-- High continuous feedback and collaboration
-- Phases (planning, design, development, testing) run concurrently
-- Highly adaptable as changes can be made at any stage
+a. Risks are identified and mitigated throughout the process
+b. Faster working product is delivered in small increments (sprints)
+c. High continuous feedback and collaboration
+d. Phases (planning, design, development, testing) run concurrently
+e. Highly adaptable as changes can be made at any stage
+f. Development approach is iterative and incremental
+g. Continuous testing and integration throughout development
+h. Lightweight documentation, focusing on working software
+i. Collaboration is cross-functional with self-organizing teams
+j. Suitable for dynamic projects with evolving requirements
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+# *Agile methodology would suit the following projects:* 
+i.   Software Development & Startups – Continuous iteration and feedback allow rapid improvements.
+ii.  Mobile & Web Applications – Frequent updates, changing user needs, and short release cycles.
+iii. AI & Machine Learning Projects – Constant model training and adjustments require flexibility.
+iv.  Product Development with Unclear Requirements – Agile adapts as the vision evolves.
+v.   Customer-Centric Projects – Agile incorporates user feedback into development.
+
+# *Waterfall methodology is beneficial in:*
+i.   Government & Defense Projects – Compliance-heavy projects with strict documentation.
+ii.  Infrastructure & Construction – Building bridges, highways, or physical structures requires fixed steps.
+iii. Manufacturing & Hardware Development – Physical product designs need careful upfront planning.
+iv.  Financial & Banking Systems – Security and regulatory requirements need structured implementation.
+v.   Medical & Pharmaceutical Research – Requires rigorous planning, testing, and approvals.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+# *Importance of maintaning high standards:*
+
+# *Methods of ensuring quality assurance throughout a software development project:*
+a) Requirement Analysis & Planning
+b) Code Quality & Development Practices
+c) Testing Strategies
+d) Continuous Integration & Deployment (CI/CD)
+e) Performance & Security Testing
+f) User Acceptance Testing (UAT) & Feedback Loops
+g) Post-Release Monitoring & Maintenance
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
