@@ -103,7 +103,7 @@ v.   Medical & Pharmaceutical Research – Requires rigorous planning, testing, 
 # *Importance of maintaning high standards:*
 
 # *Methods of ensuring quality assurance throughout a software development project:*
-a) Requirement Analysis & Planning
+a) Requirement Analysis & Planning 
 b) Code Quality & Development Practices
 c) Testing Strategies
 d) Continuous Integration & Deployment (CI/CD)
