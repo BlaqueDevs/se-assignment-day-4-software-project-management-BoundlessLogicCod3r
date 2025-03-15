@@ -155,8 +155,53 @@ g) Facilitates Collaboration & Team Productivity - Well-documented and structure
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+# *Core issues addressed:*
+1. Lack of Seamless Integration – Google Maps provides restaurant listings, but it doesn’t always offer direct booking options. The app would bridge this gap by allowing reservations directly from map listings.
+2. Fragmented Booking Experience – Users often need to switch between multiple platforms (hotel websites, restaurant apps, Google Maps, etc.) to make reservations, leading to inconvenience.
+3. Coordination Between Hotel Stays & Dining – Travelers often struggle to find nearby dining options when booking a hotel. This app would suggest and integrate food reservations alongside hotel bookings.
+4. Availability Issues & Overbooking – Users sometimes book a restaurant only to find out it's full. The app could show real-time table availability, preventing wasted trips.
+5. Personalized Recommendations – The app could use AI or user preferences to suggest restaurants based on location, cuisine preference, budget, or past visits.
+6. Tourist Convenience – Travelers unfamiliar with a city can use the app to explore top-rated nearby food joints and book in advance, avoiding last-minute hassles.
+7. Automated Itinerary Planning – The app could suggest optimal dining times based on a user’s hotel check-in/check-out schedule, improving the travel experience.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+1) Ensures a Clear Understanding of User Needs - Helps developers identify the target audience and their specific challenges.
+2) Reduces Development Time & Costs - A well-defined problem minimizes wasted resources on unnecessary features.
+3) Improves Software Functionality & Usability - Ensures that every feature serves a real purpose.
+4) Helps Choose the Right Technology Stack - Developers can select the best programming languages, frameworks, and tools for the solution.
+5) Improves Collaboration & Communication - It makes it easier to assign tasks, set priorities, and track progress.
+6) Facilitates Better Testing & Validation - A well-defined problem allows for clear success metrics and measurable goals.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+The problem my potential app intends to solve is integrating hotel/restaurant reservations with their respective geographical location listed on google maps. There will be no need to switch from google maps to book and reserve. This way foodiez will be able to explore different cuisines around a specific location based on culture and taste all in one place, with ease. This creates a habit of oftenly surveying unique and different joints for locals and even for tourists. The app will contain information such as: menus, location, culture, unique differentiator, budget, reservations, accomodation, availability etc.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+a. Dynamic Real-Time Availability & Waitlist Feature - Unlike competitors that handle only one type of booking (hotel/restaurant), your app enables users to book both in 
+   a single transaction for a hassle free experience.
+b. Seamless Hotel & Restaurant Reservation Integration (All-in-One Platform) - App will be able to integrate directly with restaurant POS systems and show live table 
+   availability.
+c. AI-Powered Smart Recommendations - analyze a user’s past bookings, cuisine preferences, dietary restrictions, and budget to suggest ideal restaurant options near their 
+   hotel.
+d. Location-Based Food & Hotel Pairing Using Google Maps API - recommend places generically and dynamically suggest restaurants within a specific travel radius based on a      user’s hotel stay.
+e. Auto-Sync with Travel Itineraries - Seamlessly sync with Google Calendar, TripIt, or email confirmations to suggest restaurant reservations at optimal times.
+f. AI Chat Assistant for Personalized Dining Queries - feature an AI assistant to answer food-related queries in real-time. An AI provides a ranked list based on reviews       and menu data.
+g. One-Tap Group Booking for Friends & Families - Group travelers can book multiple restaurant seats at once and split payments in-app hassle free.
+h. Offline Access to Reservations & Directions - A traveler without internet access can still view their bookings and navigate using offline maps.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+1. Hospitality Industry Growth - The hotel industry in Kenya is expected to generate $311.27 million in revenue by 2025, with an anticipated annual growth rate of 6.87% 
+   from 2025 to 2029. In addition, tourism Revenue in Kenya is projected to earn 650 billion shillings ($5 billion) in 2025, up from 452.2 billion shillings in the previous 
+   year, indicating a robust recovery and expansion. 
+2. Overall Software Market - Kenya's software market is projected to reach $328.60 million in 2025, with an expected annual growth rate of 6.83%, leading to a market volume 
+   of $427.99 million by 2029 driven by the expanding hospitality sector.
+3. Integration with Google Maps - Enhanced visibility in restaurants with accurate listings on Google Maps are more likely to appear in local searches, especially for "near 
+   me" queries, increasing reservation opportunities.
+4. Market Potential for Integrated Solutions - Technological advancements in the adoption of cloud-based technologies and the growing acceptance of quick-service restaurant (QSR) services are driving the need for integrated management solutions.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+a) Identifying user needs & expectations - Market trends help pinpoint user pain points and preferences.
+b) Staying competitive & differentiating the product - Analyzing competitors’ strategies and user feedback helps position a software product more effectively.
+c) Adopting emerging technologies & innovation - Market trends guide technology adoption, helping software stay up-to-date.
+d) Adapting to regulatory & compliance changes - It helps businesses stay compliant with new laws and industry standards.
+e) Understanding market gaps & competitor strategies - Allows businesses to create innovative features that competitors lack.
+f) Staying aligned with industry best practices - Ensures the software follows best practices in usability, accessibility, and performance optimization.
